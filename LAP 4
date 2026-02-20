@@ -1,0 +1,19 @@
+Adding second switch (Switch1)
+
+Connecting switches with redundant links (2 cables)
+
+Using correct cable type: Copper Cross-Over for switch-to-switch
+
+Creating VLANs on both switches
+
+Configuring trunks on all inter-switch links
+
+Verifying STP operation:
+
+Root bridge election
+
+One port FWD (green)
+
+One port BLK (orange/amber)
+
+STP commands:
